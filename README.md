@@ -1,2 +1,2 @@
-# DelsuCodeClassForum
-An Internet discussion forum designed by Delsu Code Class Team. Written in PHP
+# semantic web
+An Internet discussion forum. Written in PHP.
